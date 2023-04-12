@@ -2,5 +2,5 @@
 Presentation vimrc.
 
 ```sh
-curl -K https://raw.githubusercontent.com/cogwizzle/vimrc-presentation/main/.vimrc-presentation -o ~/.vimrc-presentation
+curl https://raw.githubusercontent.com/cogwizzle/vimrc-presentation/main/.vimrc-presentation -o ~/.vimrc-presentation
 ```
