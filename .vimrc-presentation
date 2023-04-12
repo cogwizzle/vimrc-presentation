@@ -1,0 +1,8 @@
+set nocompatible
+
+" presentation mode
+map <silent> , :bp<cr>
+map <silent> . :bn<cr>
+
+set ruler!
+syntax on
